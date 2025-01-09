@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c7b08ad7f6bc5622",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec544edca13d30c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c62481d06795c83",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zPictureStore/微信图片_20241015230101.png"
+              },
+              "icon": "lucide-image",
+              "title": "微信图片_20241015230101"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8ddc8cb9eac725f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97e448fae85181e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d2909d4c2770408",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a8c37a337b0dde57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e292d95d62f76e2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "d8099683db554920",
+    "type": "split",
+    "children": [
+      {
+        "id": "623ea6ff3723b9e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d4e4812727f840",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "练习题/背包问题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "背包问题 的反向链接列表"
+            }
+          },
+          {
+            "id": "a3ab4c5a5e129460",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "练习题/背包问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "背包问题 的出链列表"
+            }
+          },
+          {
+            "id": "a869db54643bd851",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ff2a502335ec34ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "练习题/背包问题.md"
+              },
+              "icon": "lucide-list",
+              "title": "背包问题 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4d2909d4c2770408",
+  "lastOpenFiles": [
+    "练习题/spfaloop判断负环.md",
+    "练习题/算法实验/货物运输模型.md",
+    "练习题/算法实验/袋鼠过河.md",
+    "课程练习题/队列的链式存储结构.md",
+    "练习题/分饼干.md",
+    "练习题/Balanced Lineup G.md",
+    "常用STL算法/vector.md",
+    "常用STL算法/queue.md",
+    "常用STL算法/priority_queue.md",
+    "练习题/算法实验/中国剩余定理-实验.md",
+    "练习题/算法实验/二分法、牛顿迭代法求解方程.md",
+    "练习题/算法实验/实验汇总.md",
+    "练习题/Rails.md",
+    "练习题/星际穿越.md",
+    "练习题/过河.md",
+    "练习题/通配符匹配.md",
+    "练习题/解析布尔表达式.md",
+    "练习题/背包问题.md",
+    "练习题/流水线作业调度问题--Jonson不等式.md",
+    "练习题/小国王.md",
+    "练习题/数字三角形.md",
+    "练习题/青蛙的约会.md",
+    "练习题/动态规划典型例题.md",
+    "微信图片_20241016171219.png",
+    "微信图片_20241016171216.png",
+    "微信图片_20241016171213 1.png",
+    "微信图片_20241016171213.png",
+    "微信图片_20241016171211.png",
+    "常用STL算法/sort自定义排序.md",
+    "练习题/算法实验/非递归回溯求解数独问题.md",
+    "习题消消乐.md",
+    "zPictureStore/微信图片_20241015230110.png",
+    "zPictureStore/微信图片_20241015230108.png",
+    "zPictureStore/微信图片_20241015230104.png",
+    "zPictureStore/微信图片_20241015230101.png",
+    "zPictureStore/微信图片_20241015230057.png",
+    "练习题/算法实验",
+    "zPictureStore/编译原理实验一结果演示.mp4",
+    "zPictureStore/20240322_135723.mp4",
+    "常用STL算法",
+    "课程练习题",
+    "zPictureStore",
+    "练习题",
+    "知识点、模板题"
+  ]
+}
