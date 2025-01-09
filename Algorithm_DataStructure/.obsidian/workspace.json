@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ec544edca13d30c2",
+        "id": "791711d5ec4249c2",
         "type": "tabs",
         "children": [
           {
-            "id": "3c62481d06795c83",
+            "id": "a7f2ae4f3e1bbbde",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zPictureStore/微信图片_20241015230101.png"
+                "file": "练习题/吃奶酪.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "微信图片_20241015230101"
+              "icon": "lucide-file",
+              "title": "吃奶酪"
+            }
+          },
+          {
+            "id": "9f2dc0d48b360fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -38,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -163,42 +179,42 @@
   },
   "active": "4d2909d4c2770408",
   "lastOpenFiles": [
+    "zPictureStore/7d10d231a99127bcff49cf69742cbb0.png",
+    "zPictureStore/3b00d64bd63153beb3dbe7368ed44e0.png",
+    "zPictureStore/04b346de7e3248cd1a19368807501d1.png",
+    "README.md",
+    "练习题/吃奶酪.md",
+    "习题消消乐.md",
+    "练习题/流水线作业调度问题--Jonson不等式.md",
+    "练习题/算法实验/袋鼠过河.md",
+    "练习题/算法实验/实验汇总.md",
+    "练习题/算法实验/韩信走马分油问题.md",
+    "练习题/算法实验/非递归回溯求解数独问题.md",
+    "练习题/重排链表.md",
+    "练习题/通配符匹配.md",
+    "练习题/进击的奶牛.md",
+    "练习题/验证出栈序列.md",
+    "练习题/数字三角形.md",
+    "练习题/链表的中间结点.md",
+    "练习题/过河.md",
+    "练习题/小咪买东西.md",
+    "练习题/对链表进行插入排序.md",
+    "练习题/回文链表.md",
+    "练习题/自然数拆分.md",
+    "知识点、模板题/离散化.md",
+    "zPictureStore/微信图片_20241015230101.png",
     "练习题/spfaloop判断负环.md",
     "练习题/算法实验/货物运输模型.md",
-    "练习题/算法实验/袋鼠过河.md",
     "课程练习题/队列的链式存储结构.md",
     "练习题/分饼干.md",
     "练习题/Balanced Lineup G.md",
-    "常用STL算法/vector.md",
-    "常用STL算法/queue.md",
-    "常用STL算法/priority_queue.md",
-    "练习题/算法实验/中国剩余定理-实验.md",
-    "练习题/算法实验/二分法、牛顿迭代法求解方程.md",
-    "练习题/算法实验/实验汇总.md",
-    "练习题/Rails.md",
-    "练习题/星际穿越.md",
-    "练习题/过河.md",
-    "练习题/通配符匹配.md",
-    "练习题/解析布尔表达式.md",
-    "练习题/背包问题.md",
-    "练习题/流水线作业调度问题--Jonson不等式.md",
-    "练习题/小国王.md",
-    "练习题/数字三角形.md",
-    "练习题/青蛙的约会.md",
-    "练习题/动态规划典型例题.md",
     "微信图片_20241016171219.png",
     "微信图片_20241016171216.png",
     "微信图片_20241016171213 1.png",
     "微信图片_20241016171213.png",
     "微信图片_20241016171211.png",
-    "常用STL算法/sort自定义排序.md",
-    "练习题/算法实验/非递归回溯求解数独问题.md",
-    "习题消消乐.md",
     "zPictureStore/微信图片_20241015230110.png",
     "zPictureStore/微信图片_20241015230108.png",
-    "zPictureStore/微信图片_20241015230104.png",
-    "zPictureStore/微信图片_20241015230101.png",
-    "zPictureStore/微信图片_20241015230057.png",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
     "zPictureStore/20240322_135723.mp4",
