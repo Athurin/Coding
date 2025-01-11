@@ -50,10 +50,10 @@ $1\leq n\leq 1000$。
 
 #贪心 #数学模型 #johnson不等式
 
-![[微信图片_20241016171211.png]]
-![[微信图片_20241016171213 1.png]]
-![[微信图片_20241016171216.png]]
-![[微信图片_20241016171219.png]]
+![](../zPictureStore/微信图片_20241016171211.png)
+![](../zPictureStore/微信图片_20241016171213 1.png)
+![](../zPictureStore/微信图片_20241016171216.png)
+![](../zPictureStore/微信图片_20241016171219.png)
 
 第一次的提交，有两个测试点WA了
 其中一个测试点信息如下：
@@ -153,15 +153,15 @@ int main()
     //首先顺序执行N1的作业（递增执行）
     for(int k=0; k<cntn1; k++)
     {
-        f1 = f1 + a[N1[k]];
-        f2 = max(f1, f2) + b[N1[k]];
+        f1 = f1 + a[N1[k);
+        f2 = max(f1, f2) + b[N1[k);
     }
     
     //然后顺序执行N0的作业（递减执行）
     for(int k=cntn1; k<n; k++)
     {
-        f1 = f1 + a[N0[k]];
-        f2 = max(f1, f2) + b[N0[k]];
+        f1 = f1 + a[N0[k);
+        f2 = max(f1, f2) + b[N0[k);
     }
     
     cout<<f2<<endl;
@@ -271,15 +271,15 @@ int main()
     //首先顺序执行N1的作业（递增执行）
     for(int k=0; k<cntn1; k++)
     {
-        f1 = f1 + a[N1[k]];
-        f2 = max(f1, f2) + b[N1[k]];
+        f1 = f1 + a[N1[k);
+        f2 = max(f1, f2) + b[N1[k);
     }
     
     //然后顺序执行N0的作业（递减执行）
     for(int k=cntn1; k<n; k++)
     {
-        f1 = f1 + a[N0[k]];
-        f2 = max(f1, f2) + b[N0[k]];
+        f1 = f1 + a[N0[k);
+        f2 = max(f1, f2) + b[N0[k);
     }
     
     cout<<f2<<endl;

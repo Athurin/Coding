@@ -94,7 +94,8 @@ YES
 
 
 AC代码：
-![](../zPictureStore/Pasted image 20250111102544.png)
+
+![](../zPictureStore/Pastedimage20250111145523.png)
 
 ```cpp
 #include <iostream>

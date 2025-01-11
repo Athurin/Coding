@@ -150,6 +150,6 @@ int main()
 	return 0;
 }
 ```
-![[Screenshot 2024-03-28 183100.png]]
+![](../zPictureStore/Screenshot2024-03-28183100.png)
 
 

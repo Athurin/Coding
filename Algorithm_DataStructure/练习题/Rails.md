@@ -5,7 +5,7 @@ There is a famous railway station in PopPush City. Country there is incredibly h
 
 波普什市有一个著名的火车站。那里的乡村真是山峦起伏不定。这个车站建于上个世纪。不幸的是，当时的资金极为有限。只可能建立一条地面轨道。而且，事实证明，空间站可能只是一个死胡同(见图)，而且由于缺乏可用的空间，它只能有一条轨道。
 
-![[Pasted image 20240119151402.png]]
+![](../zPictureStore/Pastedimage202403101109083.png)
 
 
 The local tradition is that every train arriving from the direction A continues in the direction B with coaches reorganized in some way. Assume that the train arriving from the direction A has N <= 1000 coaches numbered in increasing order 1, 2, ..., N. The chief for train reorganizations must know whether it is possible to marshal coaches continuing in the direction B so that their order will be a1, a2, ..., aN. Help him and write a program that decides whether it is possible to get the required order of coaches. You can assume that single coaches can be disconnected from the train before they enter the station and that they can move themselves until they are on the track in the direction B. You can also suppose that at any time there can be located as many coaches as necessary in the station. But once a coach has entered the station it cannot return to the track in the direction A and also once it has left the station in the direction B it cannot return back to the station.  
@@ -125,5 +125,5 @@ int main(void)
             }
 ```
 
-![[微信图片_20240227224312.png]]
+![](../zPictureStore/微信图片_20240227224312.png)
 
