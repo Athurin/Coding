@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习题/Tempter of the bone.md",
+                "file": "知识点、模板题/链表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tempter of the bone"
+              "title": "链表"
             }
           }
         ]
@@ -165,14 +165,17 @@
   },
   "active": "a7f2ae4f3e1bbbde",
   "lastOpenFiles": [
-    "22ba70e9034f1a893c417199dde4f79.png",
-    "f36a96b3b8031439c4f5c3aa8cd6926.png",
-    "a003c797a1c42d2da2d5ec134ca2c40.png",
-    "cdd3a06c83389e2db5b46ba0b1f572f.png",
-    "c187df9895feb85d481bc8d6005fb43.png",
-    "Pasted image 20250111102544.png",
-    "知识点、模板题/高精度.md",
+    "知识点、模板题/二分.md",
+    "知识点、模板题/链表.md",
+    "知识点、模板题/前缀和、差分.md",
     "练习题/Tempter of the bone.md",
+    "zPictureStore/22ba70e9034f1a893c417199dde4f79.png",
+    "zPictureStore/f36a96b3b8031439c4f5c3aa8cd6926.png",
+    "zPictureStore/a003c797a1c42d2da2d5ec134ca2c40.png",
+    "zPictureStore/cdd3a06c83389e2db5b46ba0b1f572f.png",
+    "zPictureStore/c187df9895feb85d481bc8d6005fb43.png",
+    "zPictureStore/Pasted image 20250111102544.png",
+    "知识点、模板题/高精度.md",
     "练习题/吃奶酪.md",
     "zPictureStore/7d10d231a99127bcff49cf69742cbb0.png",
     "zPictureStore/3b00d64bd63153beb3dbe7368ed44e0.png",
@@ -198,9 +201,6 @@
     "知识点、模板题/离散化.md",
     "zPictureStore/微信图片_20241015230101.png",
     "练习题/spfaloop判断负环.md",
-    "练习题/算法实验/货物运输模型.md",
-    "课程练习题/队列的链式存储结构.md",
-    "微信图片_20241016171219.png",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
     "zPictureStore/20240322_135723.mp4",
