@@ -81,15 +81,20 @@ YES
 `BFS`非常适合求解最短路问题，但是注意，这里要求的是长度为`T`的路径，这并不等价于最短路。小狗如果提前到达终点，一秒后门不开，地板开始陷落，小狗依然不能获救。所以这里并不适合`BFS`。
 于是就要使用`DFS`寻找所有路径，并找出长度为`T`的路径。
 
-![[c187df9895feb85d481bc8d6005fb43.png]]
-![[cdd3a06c83389e2db5b46ba0b1f572f.png]]
-![[a003c797a1c42d2da2d5ec134ca2c40.png]]
-![[f36a96b3b8031439c4f5c3aa8cd6926.png]]
-![[22ba70e9034f1a893c417199dde4f79.png]]
+
+![](../zPictureStore/c187df9895feb85d481bc8d6005fb43.png)
+![](../zPictureStore/cdd3a06c83389e2db5b46ba0b1f572f.png)
+![](../zPictureStore/a003c797a1c42d2da2d5ec134ca2c40.png)
+![](../zPictureStore/f36a96b3b8031439c4f5c3aa8cd6926.png)
+![](../zPictureStore/22ba70e9034f1a893c417199dde4f79.png)
+
+
+
+
 
 
 AC代码：
-![[Pasted image 20250111102544.png]]
+![](../zPictureStore/Pasted image 20250111102544.png)
 
 ```cpp
 #include <iostream>

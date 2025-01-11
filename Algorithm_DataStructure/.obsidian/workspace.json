@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点、模板题/链表.md",
+                "file": "练习题/Tempter of the bone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "链表"
+              "title": "Tempter of the bone"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "a7f2ae4f3e1bbbde",
   "lastOpenFiles": [
-    "知识点、模板题/二分.md",
     "知识点、模板题/链表.md",
+    "知识点、模板题/二分.md",
     "知识点、模板题/前缀和、差分.md",
     "练习题/Tempter of the bone.md",
     "zPictureStore/22ba70e9034f1a893c417199dde4f79.png",
