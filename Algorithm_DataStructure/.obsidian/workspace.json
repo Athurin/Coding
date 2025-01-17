@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "接雨水"
             }
+          },
+          {
+            "id": "a6773c2829ee94d8",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "zPictureStore/QQ2025117-11355-HD.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "QQ2025117-11355-HD"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +176,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64b6e8e8d6ee7452",
+  "active": "a6773c2829ee94d8",
   "lastOpenFiles": [
-    "zPictureStore/QQ2025117-93838-HD.mp4",
     "练习题/接雨水.md",
+    "zPictureStore/QQ2025117-93838-HD.mp4",
     "练习题/分发糖果.md",
     "zPictureStore/Snipaste_2025-01-17_11-37-04.png",
     "zPictureStore/QQ2025117-11355-HD.mp4",
