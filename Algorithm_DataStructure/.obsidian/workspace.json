@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习题/字母异位词-题组.md",
+                "file": "知识点、模板题/Dijkstra-II 堆优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "字母异位词-题组"
+              "title": "Dijkstra-II 堆优化"
             }
           }
         ]
@@ -165,11 +165,13 @@
   },
   "active": "64b6e8e8d6ee7452",
   "lastOpenFiles": [
+    "知识点、模板题/Dijkstra - I.md",
+    "知识点、模板题/Dijkstra-II 堆优化.md",
+    "练习题/字母异位词-题组.md",
     "zPictureStore/Snipaste_2025-01-19_18-33-58.png",
     "知识点、模板题/Topsort.md",
     "zPictureStore/Snipaste_2025-01-19_17-23-09.png",
     "zPictureStore/Snipaste_2025-01-19_17-14-54.png",
-    "练习题/字母异位词-题组.md",
     "zPictureStore/Snipaste_2025-01-19_17-13-14.png",
     "zPictureStore/Snipaste_2025-01-19_16-57-07.png",
     "zPictureStore/Snipaste_2025-01-19_15-49-41.png",
@@ -183,7 +185,6 @@
     "zPictureStore/QQ2025117-11355-HD.mp4",
     "zPictureStore/QQ2025117-93838-HD.mp4",
     "练习题/分发糖果.md",
-    "zPictureStore/Snipaste_2025-01-17_11-37-04.png",
     "知识点、模板题/单调栈.md",
     "知识点、模板题/单调队列.md",
     "zPictureStore/Snipaste_2025-01-17_09-00-43.md",
@@ -203,7 +204,6 @@
     "知识点、模板题/高精度.md",
     "知识点、模板题/求解最大公约数.md",
     "知识点、模板题/排列.md",
-    "知识点、模板题/快速幂.md",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
     "zPictureStore/20240322_135723.mp4",
