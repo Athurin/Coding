@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习题/删除有序数组中的重复项II.md",
+                "file": "练习题/多数元素.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "删除有序数组中的重复项II"
+              "title": "多数元素"
             }
           }
         ]
@@ -166,8 +166,15 @@
   },
   "active": "64b6e8e8d6ee7452",
   "lastOpenFiles": [
-    "练习题/删除有序数组中的重复项.md",
+    "zPictureStore/Snipaste_2025-04-08_15-18-17.png",
+    "Pasted image 20250408151806.png",
+    "练习题/未命名.md",
+    "练习题/多数元素.md",
+    "zPictureStore/Snipaste_2025-04-08_14-07-03.png",
+    "zPictureStore/Snipaste_2025-04-08_14-05-27.png",
+    "zPictureStore/Snipaste_2025-04-08_14-04-40.png",
     "练习题/删除有序数组中的重复项II.md",
+    "练习题/删除有序数组中的重复项.md",
     "练习题/买卖股票的最佳时机II.md",
     "练习题/买卖股票的最佳时机.md",
     "练习题/接雨水.md",
@@ -183,16 +190,12 @@
     "zPictureStore/Snipaste_2025-03-23_15-47-57.png",
     "知识点、模板题/二分.md",
     "zPictureStore/微信图片_20250323142206.jpg",
-    "zPictureStore/3817595e0150987c6393250d58f5f33 1.jpg",
-    "zPictureStore/3817595e0150987c6393250d58f5f33.jpg",
     "知识点、模板题/染色法判定二分图.md",
     "知识点、模板题/Bellman-ford.md",
     "知识点、模板题/Dijkstra-II 堆优化.md",
     "知识点、模板题/Dijkstra - I.md",
     "练习题/字母异位词-题组.md",
-    "zPictureStore/Snipaste_2025-01-19_18-33-58.png",
     "知识点、模板题/Topsort.md",
-    "zPictureStore/Snipaste_2025-01-19_17-23-09.png",
     "常用STL算法/hashtable.md",
     "常用STL算法/map.md",
     "zPictureStore/QQ2025117-11355-HD.mp4",
@@ -202,9 +205,6 @@
     "知识点、模板题/单调队列.md",
     "zPictureStore/Snipaste_2025-01-17_09-00-43.md",
     "z",
-    "知识点、模板题/BFS.md",
-    "知识点、模板题/DFS.md",
-    "知识点、模板题/Trie.md",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
     "zPictureStore/20240322_135723.mp4",
