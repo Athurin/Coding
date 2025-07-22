@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39aa89bdc3007dfb",
+        "id": "8be6c184ae44790f",
         "type": "tabs",
         "children": [
           {
-            "id": "64b6e8e8d6ee7452",
+            "id": "1cf44067827cd4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "练习题/跳跃游戏.md",
+                "file": "代码随想录/数组/二分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "跳跃游戏"
-            }
-          },
-          {
-            "id": "7014cfc4f425e95a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "练习题/轮转数组.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "轮转数组"
+              "title": "二分"
             }
           }
         ]
@@ -178,10 +164,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64b6e8e8d6ee7452",
+  "active": "1cf44067827cd4f3",
   "lastOpenFiles": [
-    "练习题/轮转数组.md",
+    "练习题/算法实验/二分法、牛顿迭代法求解方程.md",
+    "代码随想录/数组/二分.md",
+    "知识点、模板题/二分.md",
     "练习题/跳跃游戏.md",
+    "代码随想录/数组",
+    "代码随想录/未命名.md",
+    "未命名",
+    "代码随想录",
+    "练习题/轮转数组.md",
     "zPictureStore/Snipaste_2025-04-08_18-45-41.png",
     "zPictureStore/微信图片_20250408184512.jpg",
     "zPictureStore/微信图片_20250408184418.jpg",
@@ -203,7 +196,6 @@
     "练习题/合并两个有序数组.md",
     "练习题/寻找两个有序数组的中位数.md",
     "练习题/搜索旋转排序数组.md",
-    "知识点、模板题/二分.md",
     "知识点、模板题/染色法判定二分图.md",
     "知识点、模板题/Bellman-ford.md",
     "知识点、模板题/Dijkstra-II 堆优化.md",
@@ -215,16 +207,10 @@
     "zPictureStore/QQ2025117-11355-HD.mp4",
     "zPictureStore/QQ2025117-93838-HD.mp4",
     "练习题/分发糖果.md",
-    "知识点、模板题/单调栈.md",
-    "知识点、模板题/单调队列.md",
-    "zPictureStore/Snipaste_2025-01-17_09-00-43.md",
     "z",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
     "zPictureStore/20240322_135723.mp4",
-    "常用STL算法",
-    "课程练习题",
-    "zPictureStore",
-    "练习题"
+    "常用STL算法"
   ]
 }
