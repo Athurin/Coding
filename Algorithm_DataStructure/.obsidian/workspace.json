@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码随想录/数组/二分.md",
+                "file": "代码随想录/数组/有序数组的平方.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二分"
+              "title": "有序数组的平方"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "1cf44067827cd4f3",
   "lastOpenFiles": [
-    "练习题/算法实验/二分法、牛顿迭代法求解方程.md",
+    "代码随想录/数组/移除元素.md",
+    "代码随想录/数组/有序数组的平方.md",
     "代码随想录/数组/二分.md",
+    "练习题/算法实验/二分法、牛顿迭代法求解方程.md",
     "知识点、模板题/二分.md",
     "练习题/跳跃游戏.md",
     "代码随想录/数组",
@@ -203,10 +205,8 @@
     "练习题/字母异位词-题组.md",
     "知识点、模板题/Topsort.md",
     "常用STL算法/hashtable.md",
-    "常用STL算法/map.md",
     "zPictureStore/QQ2025117-11355-HD.mp4",
     "zPictureStore/QQ2025117-93838-HD.mp4",
-    "练习题/分发糖果.md",
     "z",
     "练习题/算法实验",
     "zPictureStore/编译原理实验一结果演示.mp4",
