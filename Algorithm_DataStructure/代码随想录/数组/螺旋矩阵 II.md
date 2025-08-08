@@ -199,3 +199,67 @@ public:
 };
 ```
 
+## 3 [LCR 146. 螺旋遍历二维数组 - 力扣（LeetCode）](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/description/)
+
+与T2唯一不同的就是数组可以为0. `n = matrix[0].size();` 会越界。
+
+AC：
+```cpp
+class Solution {
+public:
+    vector<int> spiralArray(vector<vector<int>>& matrix) 
+    {
+        if(matrix.size() == 0) return vector<int>();
+
+        int offsetx = 1;
+        int offsety = 1;
+        int startx = 0;
+        int starty = 0;
+        int cnt = 0;
+        int i, j;
+
+        int m = matrix.size(), n = matrix[0].size();
+        vector<int> res(m*n);
+
+        //完整的循环次数应该取决于较短的边
+        int loop = min(m, n) /2;
+
+        // while(cnt < m*n)
+        while(loop--)
+        {
+            i = starty;
+            j = startx;
+
+            for(; j < n-offsetx; j++)
+                res[cnt++] = matrix[i][j];
+
+            for(; i < m-offsety; i++)
+                res[cnt++] = matrix[i][j];
+            
+            for(; j > startx; j--)
+                res[cnt++] = matrix[i][j];
+            
+            for(; i > starty; i--)
+                res[cnt++] = matrix[i][j];
+
+            offsetx++;
+            offsety++;
+            startx++;
+            starty++;
+        }
+
+        if (starty == m - offsety) 
+        {                // 只剩一行
+            for (int j = startx; j <= n - offsetx; ++j)
+                res[cnt++] = matrix[starty][j];
+        } 
+        else if (startx == n - offsetx) 
+        {         // 只剩一列
+            for (int i = starty; i <= m - offsety; ++i)
+                res[cnt++] = matrix[i][startx];
+        }
+
+        return res;
+    }
+};
+```
