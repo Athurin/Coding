@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码随想录/链表/反转链表II.md",
+                "file": "代码随想录/链表/两两交换链表中的节点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反转链表II"
+              "title": "两两交换链表中的节点"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "两两",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,9 +166,12 @@
   },
   "active": "1cf44067827cd4f3",
   "lastOpenFiles": [
+    "练习题/两两交换链表中的节点.md",
+    "代码随想录/链表/两两交换链表中的节点.md",
+    "练习题/丢手绢.md",
+    "代码随想录/链表/反转链表II.md",
     "代码随想录/链表/反转链表.md",
     "zPictureStore/微信图片_20240310212627.png",
-    "代码随想录/链表/反转链表II.md",
     "练习题/反转链表II.md",
     "练习题/反转链表.md",
     "代码随想录/链表/设计链表.md",
@@ -190,8 +193,6 @@
     "课程练习题/链栈的基本实现.md",
     "课程练习题/采用队列求解迷宫问题.md",
     "课程练习题/设计循环双端队列.md",
-    "课程练习题/编译原理 词法分析.md",
-    "代码随想录/链表/链表排序.md",
     "代码随想录/链表",
     "未命名",
     "代码随想录/数组",
