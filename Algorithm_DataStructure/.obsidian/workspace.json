@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码随想录/二叉树/二叉树的非递归遍历.md",
+                "file": "代码随想录/二叉树/二叉树的层序遍历.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二叉树的非递归遍历"
+              "title": "二叉树的层序遍历"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "两两",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码随想录/二叉树/二叉树的非递归遍历.md",
+                "file": "代码随想录/二叉树/二叉树的层序遍历.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二叉树的非递归遍历 的大纲"
+              "title": "二叉树的层序遍历 的大纲"
             }
           }
         ],
@@ -167,13 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a03f001b3dd8c489",
+  "active": "4d2909d4c2770408",
   "lastOpenFiles": [
-    "代码随想录/二叉树/二叉树的递归遍历.md",
-    "代码随想录/二叉树/二叉树的非递归遍历.md",
-    "代码随想录/二叉树/写dfs的时候会因为迭代太多次而爆栈，怎么改用循环.md",
-    "代码随想录/二叉树/未命名",
     "代码随想录/二叉树/二叉平衡排序树=AVL树=红黑树 吗.md",
+    "代码随想录/回溯/写dfs的时候会因为迭代太多次而爆栈，怎么改用循环，使用C++.md",
+    "代码随想录/回溯",
+    "代码随想录/二叉树/二叉树的层序遍历.md",
+    "代码随想录/二叉树/写dfs的时候会因为迭代太多次而爆栈，怎么改用循环.md",
+    "代码随想录/二叉树/二叉树的非递归遍历.md",
+    "代码随想录/二叉树/二叉树的递归遍历.md",
+    "代码随想录/二叉树/未命名",
     "代码随想录/栈与队列/前 K 个高频元素.md",
     "代码随想录/二叉树",
     "代码随想录/栈与队列/滑动窗口最大值.md",
@@ -195,9 +198,6 @@
     "代码随想录/双指针/右旋字符串 1.md",
     "代码随想录/双指针/反转字符串中的单词 1.md",
     "代码随想录/双指针/替换数字（第八期模拟笔试） 1.md",
-    "代码随想录/双指针/反转字符串 1.md",
-    "代码随想录/双指针/移除元素 1.md",
-    "代码随想录/双指针/未命名.md",
     "代码随想录/双指针",
     "代码随想录/字符串",
     "zPictureStore/Snipaste_2025-08-11_14-41-43.png",
@@ -213,7 +213,6 @@
     "zPictureStore/Snipaste_2025-04-08_18-07-45.png",
     "zPictureStore/Snipaste_2025-04-08_15-18-17.png",
     "zPictureStore/Pasted image 20250408151806.png",
-    "zPictureStore/Snipaste_2025-04-08_14-07-03.png",
-    "zPictureStore/QQ2025117-11355-HD.mp4"
+    "zPictureStore/Snipaste_2025-04-08_14-07-03.png"
   ]
 }
